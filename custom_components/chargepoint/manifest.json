@@ -7,7 +7,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/mbillow/ha-chargepoint/issues",
   "requirements": [
-      "python-chargepoint==1.11.0"
+      "git+https://github.com/Omnipius/python-chargepoint.git@14-sso_login"
     ],
   "version": "0.12.0"
 }
